@@ -3,3 +3,4 @@ Version 1.0.0
 Hotfix on version 1.0.0
 
 Feature1 first commit
+Feature1 second commit
